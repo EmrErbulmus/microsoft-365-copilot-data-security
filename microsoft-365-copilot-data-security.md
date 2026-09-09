@@ -41,6 +41,8 @@ Bu doküman, Microsoft 365 Copilot dağıtımı öncesinde ve sonrasında alınm
 - [11. Kaynaklar](#11-kaynaklar)
 
 ---
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/705070cf-da33-404b-a55e-dbf94eb7cdf2" />
+
 
 ## 1. Giriş
 
