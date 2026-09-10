@@ -95,7 +95,7 @@ Microsoft kontrolleri lisans seviyesine göre iki grupta tanımlar:
 
 ### 4.1 Lisans ve erişim yönetimi
 
-Microsoft 365 uygulamalarında kullanıcılar için otomatik olarak görünür hâle gelir (örneğin Word'de yeni belge oluştururken açılan Copilot iletişim kutusu).
+Copilot lisansları atandıktan sonra Microsoft 365 uygulamalarında kullanıcılar için otomatik olarak görünür hâle gelir (örneğin Word'de yeni belge oluştururken açılan Copilot iletişim kutusu).
 
 **Öneri:** Lisansı tüm kuruma tek seferde dağıtmak yerine **pilot → dalga bazlı (wave) dağıtım** yapın. İlk dalga öncesinde bu makaledeki 4.2–4.6 arası adımların tamamlanmış olması gerekir.
 
